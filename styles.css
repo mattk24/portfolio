@@ -1,0 +1,45 @@
+.about {
+    margin-top: 3rem;
+}
+
+a {
+    font-family: 'Fondamento', cursive;
+}
+
+.card {
+    margin-bottom: 5px;
+}
+
+.info {
+    margin-top: 2rem;
+}
+
+th {
+    color: gold;
+    font-size: 1.3rem;
+}
+
+h1, h2, h3, h5 {
+    font-family: 'Fondamento', cursive;
+}
+
+p {
+    font-size: 1.3rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.jumbotron {
+    background-image: linear-gradient(45deg, gold, #323edd, #4d089a, purple);
+}
+
+.profile-img {
+  position: relative;
+  margin-top: 1.5rem;
+  margin-bottom: -1.5rem;
+}
+
+body {
+    background-image: linear-gradient(78deg, #323eed, #4d089a, #4d084a);
+    text-align: center;
+}
+
